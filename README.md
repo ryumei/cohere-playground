@@ -1,6 +1,6 @@
 # Cohere Playground
 
-Hands-on exploration of Cohere's enterprise AI capabilities, focusing on RAG (Retrieval-Augmented Generation), multilingual support, and integration patterns for Japanese enterprise environments.
+Hands-on exploration of Cohere/Anthropic/etc's enterprise AI capabilities, focusing on RAG (Retrieval-Augmented Generation), multilingual support, and integration patterns for Japanese enterprise environments.
 
 ## Overview
 
@@ -15,7 +15,7 @@ This repository contains Jupyter notebooks demonstrating:
 | Notebook | Description |
 |----------|-------------|
 | `001_HelloCohereAPI.ipynb` | Introduction to Cohere API basics |
-| `002_UsingOpenAI.ipynb` | Comparative analysis of OpenAI vs Cohere |
+| `002_UsingOpenAI.ipynb` | Cohere API with OpenAI SDK |
 | `101_unagi.ipynb` | Japanese language processing example |
 
 ## Setup
